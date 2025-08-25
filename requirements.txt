@@ -1,0 +1,17 @@
+streamlit
+fastapi
+uvicorn
+pydantic
+pandas
+numpy
+matplotlib
+plotly
+geopy
+requests
+groq
+openai
+beautifulsoup4
+selenium
+scikit-learn
+folium
+streamlit-folium
